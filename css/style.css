@@ -1,0 +1,82 @@
+body {
+  background: #222629;
+  color: #fff;
+}
+
+#main-nav .btn {
+  margin-left: 25px;
+  background: #86c232;
+}
+
+.navbar {
+  background: #222629;
+  border-bottom: #86c232 3px solid;
+}
+
+#home-section {
+  background: rgb(34, 38, 41);
+  background: linear-gradient(
+    332deg,
+    rgba(34, 38, 41, 1) 0%,
+    rgba(134, 194, 50, 1) 100%
+  );
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#home-section .home-inner {
+  padding-top: 100px;
+}
+
+#home-section .card-form {
+  background: #86c232;
+  opacity: 0.8;
+}
+
+#home-section .fas,
+#create-section .fas {
+  color: #86c232;
+  background: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+#explore-head-section {
+  background: #222629;
+}
+#explore-head-section .card {
+  background: #6b6e70;
+}
+
+#explore-head-section .card-deck {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#explore-head-section .btn {
+  background: #86c232;
+}
+
+#explore-section .fas,
+#share-section .fas {
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#main-footer .btn {
+  background: #86c232;
+}
+
+#contactModal .btn {
+  background: #86c232;
+}
+
+a {
+  color: inherit;
+}
